@@ -1,0 +1,6 @@
+pandas
+plotly
+numpy
+google-api-python-client
+wordcloud
+ftfy
